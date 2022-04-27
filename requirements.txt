@@ -1,0 +1,5 @@
+streamlit
+streamlit_webrtc
+
+opencv-python
+mediapipe==0.8.9.1
