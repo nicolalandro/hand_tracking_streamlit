@@ -1,3 +1,5 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/nicolalandro/hand_tracking_streamlit/main/app.py)
+
 # Streamlit hand tracking demo
 
 This codebase include a streamlit app with a HandTraking service.
